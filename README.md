@@ -1,2 +1,2 @@
 # مسبحة إلكترونية أونلاين
-https://m5rdev.github.io/-/
+https://m5rdev.github.io/ECounter
